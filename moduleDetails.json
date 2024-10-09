@@ -1,55 +1,55 @@
 {
     "modules": [
         {
-            "image": "https://aysedeliktas.github.io/womom-data/SaglıkOkuryazarligi.jpg",
+            "image": "https://aysedeliktas.github.io/womom-data/media/SaglıkOkuryazarligi.jpg",
             "tag": "Sağlık Okuryazarlığı",
             "text": "Kadın bedenini takip edip sağlığın için bilgi edinebilmeni sağlar.",
             "id": "1"
         },
         {
-            "image": "https://aysedeliktas.github.io/womom-data/KadınOlmayaYonelikFarkındalık.jpg",
+            "image": "https://aysedeliktas.github.io/womom-data/media/KadınOlmayaYonelikFarkındalık.jpg",
             "tag": "Kadın Olmaya Yönelik Farkındalık",
             "text": "Sadece beden değil benliğin ile de “kadın olma”yı keşfetmeni amaçlar.",
             "id": "2"
         },
         {
-            "image": "https://aysedeliktas.github.io/womom-data/AnnelikSureci.jpg",
+            "image": "https://aysedeliktas.github.io/womom-data/media/AnnelikSureci.jpg",
             "tag": "Annelik Süreci",
             "text": "Kaygılarından arınıp içsel anneliğini deneyimleyebilmeni hedefler.",
             "id": "3"
         },
         {
-            "image": "https://aysedeliktas.github.io/womom-data/GebelikteFizikselDegisimlerveGereksinimler.jpg",
+            "image": "https://aysedeliktas.github.io/womom-data/media/GebelikteFizikselDegisimlerveGereksinimler.jpg",
             "tag": "Gebelikte Fiziksel Değişimler ve Gereksinimler",
             "text": "Gebe bedeninde olan değişimler ve bunların yönetimi hakkında bilgilendirme sağlar. ",
             "id": "4"
         },
         {
-            "image": "https://aysedeliktas.github.io/womom-data/GebelikteRuhsalDegisimlerveGereksinimler.jpg",
+            "image": "https://aysedeliktas.github.io/womom-data/media/GebelikteRuhsalDegisimlerveGereksinimler.jpg",
             "tag": "Gebelikte Ruhsal Değişimler ve Gereksinimler",
             "text": "Gebelik sürecine yeni bir bakış açısı sunarak gebeliğe ve anneliğe uyumunu amaçlar.",
             "id": "5"
         },
         {
-            "image": "https://aysedeliktas.github.io/womom-data/MaternalDonemdeBebekVeEsleİliski.jpg",
+            "image": "https://aysedeliktas.github.io/womom-data/media/MaternalDonemdeBebekVeEsleİliski.jpg",
             "tag": "Maternal Dönemde Bebek ve Eşle İlişki",
             "text": "Gebelikle başlayan annelik sürecinde bebek ve eş ile ilişkilerini kuvvetlendirebilmen için öneriler sunar.",
             "id": "6"
         },
         {
-            "image": "https://aysedeliktas.github.io/womom-data/DogumaFizikselHazırlıkSureci.jpg",
+            "image": "https://aysedeliktas.github.io/womom-data/media/DogumaFizikselHazırlıkSureci.jpg",
             "tag": "Doğuma Fiziksel Hazırlık Süreci ",
             "text": "Doğum süreci hakkında bilgi edinip kendi bedenini doğuma hazırlayabilmen için bilgilendirme sağlar.",
             "id": "7"
         },
         {
-            "image": "https://aysedeliktas.github.io/womom-data/DogumaPsikolojikHazırlıkSureci.jpg",
+            "image": "https://aysedeliktas.github.io/womom-data/media/DogumaPsikolojikHazırlıkSureci.jpg",
             "tag": "Doğuma Psikolojik Hazırlık Süreci",
             "text": "Doğuma ilişkin kaygılardan uzaklaşarak doğumun doğallığını deneyimleyebilmen için yeni bir bakış açısı sağlar.",
             "id": "8"
         },
         {
-            "image": "https://aysedeliktas.github.io/womom-data/DogumSonuDonemeUyum.jpg",
+            "image": "https://aysedeliktas.github.io/womom-data/media/DogumSonuDonemeUyum.jpg",
             "tag": "Doğum Sonu Döneme Uyum",
             "text": "Bebeğin aileye katılımı ile yeniden yapılanabilmen için öneriler sunar.",
             "id": "9"
