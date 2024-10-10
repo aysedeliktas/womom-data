@@ -3,13 +3,13 @@
     "modules": [
         {
             "type": 1,
-            "label": "Education Video",
+            "label": "Eğitim Videosu",
             "url": "https://youtu.be/RTj7_HMCBeI?si=vsBJ6F_-cqkhfYHC",
             "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
         },
         {
             "type": 2,
-            "label": "Documents",
+            "label": "Destekleyici Okuma Kaynakları",
             "documents": [
                 {
                     "documentName":"egitimde-cinsiyet-esitligi",
@@ -23,13 +23,13 @@
         },
         {
             "type": 1,
-            "label":"Extra Education Video",
+            "label":"Destekleyici Eğitim Videoları",
             "url": "https://youtu.be/imwmmv9r1oE?si=swWlSquIdEnI0yRW",
             "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
         },
         {
             "type":3,
-            "label":"Survey Questions",
+            "label":"Özdeğerlendirme Anketi",
             "surweys":[
                 {
                     "id":1,
