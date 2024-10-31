@@ -1,10 +1,10 @@
 {
-    "tag": "Kadın Okuryazarlığı",
+    "tag": "Sağlık Okuryazarlığı",
     "modules": [
         {
             "type": 1,
-            "label": "Education Video",
-            "url": "https://www.youtube.com/embed/RTj7_HMCBeI?si=QwP8KqLADmyYmnS8",
+            "label": "Eğitim Videosu",
+            "url": "https://www.youtube.com/embed/g6Zw6B_Z_M4?si=5JQDzElLLrIB0c6Y",
             "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
         },
         {
@@ -23,8 +23,14 @@
         },
         {
             "type": 1,
-            "label":"Extra Education Video",
-            "url": "https://www.youtube.com/embed/imwmmv9r1oE?si=Zb7gPDaAKO3kzZf-",
+            "label":"Ekstra Eğitim Videosu",
+            "url": "https://www.youtube.com/embed/gLi1_YgXT_w?si=f6651ByOsR8vWcMb",
+            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+        },
+        {
+            "type": 1,
+            "label":"Ekstra Eğitim Videosu",
+            "url": "https://www.youtube.com/embed/gLi1_YgXT_w?si=f6651ByOsR8vWcMb",
             "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
         },
         {
