@@ -4,7 +4,7 @@
         {
             "type": 1,
             "label": "Eğitim Videosu",
-            "url": "https://www.youtube.com/embed/videoseries?si=K3aVXBGIVr3JfdNM&list=PLTy-clqu3n2y3ocmxuMqM2BM9IOjcqUrq",
+            "url": "https://www.youtube.com/embed/g6Zw6B_Z_M4?si=5JQDzElLLrIB0c6Y",
             "description": ""
         },
         {
@@ -32,6 +32,12 @@
                     "tag": "Kadınlar ve Eğitim Erişimi"
                 }
             ]
+        },
+        {
+            "type": 1,
+            "label":"Destekleyici Eğitim Videosu",
+            "url": "https://www.youtube.com/embed/videoseries?si=K3aVXBGIVr3JfdNM&list=PLTy-clqu3n2y3ocmxuMqM2BM9IOjcqUrq",
+            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
         },
         {
             "type":3,
