@@ -5,25 +5,25 @@
             "type": 1,
             "label": "Eğitim Videosu",
             "url": "https://www.youtube.com/embed/uGI_Qj_C1YY?si=DfBWDkE_YKJ22RMQ",
-            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+            "description": ""
         },
         {
             "type": 1,
-            "label":"Ekstra Eğitim Videosu",
+            "label":"",
             "url": "https://www.youtube.com/embed/OXM1U0Rt5rg?si=5hTTdNQ2YNfhbAvQ",
-            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+            "description": ""
         },
         {
             "type": 1,
-            "label":"Ekstra Eğitim Videosu",
+            "label":"",
             "url": "https://www.youtube.com/embed/Jie4XVNGOuo?si=hM9sWcIpu4ClEnw9",
-            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+            "description": ""
         },
         {
             "type": 1,
-            "label":"Ekstra Eğitim Videosu",
+            "label":"",
             "url": "https://www.youtube.com/embed/UDNOzssgQ94?si=qChzrL3XA1S0dKcz",
-            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+            "description": ""
         }
     ]
 }
