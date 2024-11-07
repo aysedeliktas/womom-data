@@ -1,0 +1,11 @@
+{
+    "tag": "Sağlık Okuryazarlığı",
+    "modules": [
+        {
+            "type": 1,
+            "label":"Destekleyici Eğitim Videosu",
+            "url": "https://www.youtube.com/embed/videoseries?si=42H3qMfMevTVAUZS&list=PLTy-clqu3n2zSqfRyiwu9vmE_3LQgwYwQ",
+            "description": ""
+        }
+    ]
+}
