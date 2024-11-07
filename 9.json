@@ -1,0 +1,53 @@
+{
+    "tag": "Sağlık Okuryazarlığı",
+    "modules": [
+        {
+            "type": 1,
+            "label": "Eğitim Videosu",
+            "url": "https://www.youtube.com/embed/csGZQwQ4tS8?si=NPglw6Kt_fxehUHS",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/ii2SjTqj520?si=SWpRTd2rIsM-YT0v",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/5WLocut-6yw?si=uViHkGkVw8ZL_PPe",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/LKsLevBySeM?si=KygmwkXry-VaNv2p",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/jKTu97p9B7Y?si=HNY-KlZOELEoy4uL",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/FNyr2CKK6kw?si=Me3YTfy4rHSSZ4kV",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/1-GACv0ZiH4?si=N6kFq-SVTv5dnsLd",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/IiL6cNdf58Q?si=IBzhY0t4VhE80M3E",
+            "description": ""
+        }
+    ]
+}

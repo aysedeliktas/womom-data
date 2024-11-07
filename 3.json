@@ -1,0 +1,11 @@
+{
+    "tag": "Sağlık Okuryazarlığı",
+    "modules": [
+        {
+            "type": 1,
+            "label":"Destekleyici Eğitim Videosu",
+            "url": "https://www.youtube.com/embed/videoseries?si=Bl-q2upDUJBA_pPH&list=PLTy-clqu3n2zu8gDD81rUK3P4okSXWYSD",
+            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+        }
+    ]
+}
