@@ -9,69 +9,95 @@
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/YFuVv1l7G8I?si=54npMiMhmRL0nn72",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/18vF2RHE05c?si=A7kzSXot5KwuespR",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/oYACa_KOH9s?si=RTwqMx704phfXlOQ",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/f9XUFKtmwf8?si=Q8vlhuVDq-cNUNfj",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/23MNr4kNF2w?si=-5Em5kxPunu0ES4J",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/vUvCO8dAJhM?si=-WI1U_hXeiPJlZ_h",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/OeeY1ZuljdY?si=nFu3TGj991kObD-m",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/ZqY-otJlK90?si=K5mUVY-wXopyTheb",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/aC8rVizccCU?si=i3T3ldmU0XOOgdMB",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/KCqeQ37vm0U?si=aMaiIkDTbWpfbU1Y",
             "description": ""
         },
         {
             "type": 1,
-            "label":"",
+            "label": "",
             "url": "https://www.youtube.com/embed/elWNWA5Cg7w?si=RKkcslTlN7dRLCwX",
             "description": ""
+        },
+        {
+            "type": 3,
+            "label": "Özdeğerlendirme Anketi",
+            "surweys": [
+                {
+                    "id": 1,
+                    "question": "“Doğum” kelimesi size neyi ifade ediyor?"
+                },
+                {
+                    "id": 2,
+                    "question": "Doğum kelimesini bahsettiğiniz şekilde tanımlamanızdaki etken nedir?"
+                },
+                {
+                    "id": 3,
+                    "question": "Doğum sürecine ilişkin yeterli ve güvenilir bilginizin olduğunu düşünüyor musunuz? Evet ise doğuma ilişkin bilgileri nerelerden ediniyorsunuz?"
+                },
+                {
+                    "id": 4,
+                    "question": "Doğuma ilişkin fiziksel hazırlık aşamasında neler yapıyorsunuz?"
+                },
+                {
+                    "id": 5,
+                    "question": "Doğuma hazırlık için yaptığınız her bir uygulamanın sizi, gebeliğinizi ve doğum sürecinizi nasıl etkilediğini veya etkileyeceğini düşünüyorsunuz?"
+                }
+            ]
         }
     ]
 }

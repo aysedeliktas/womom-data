@@ -1,3 +1,46 @@
 {
-    "tag": "Maternal Dönemde Bebek ve Eşle İlişki"
+    "modules": [
+        {
+            "type": 3,
+            "label": "Özdeğerlendirme Anketi",
+            "surweys": [
+                {
+                    "id": 1,
+                    "question": "Gebelik döneminde bebeğinizle olan ilişkinizi/iletişiminizi nasıl değerlendirirsiniz?"
+                },
+                {
+                    "id": 2,
+                    "question": "Gebelik döneminde bebeğinizle iletişiminizin bahsettiğiniz şekilde olmasını etkileyen unsurlar nelerdir?"
+                },
+                {
+                    "id": 3,
+                    "question": "Gebelik döneminde bebeğinizle iletişim düzeyinizin size ve annelik sürecinize etkileri nelerdir?"
+                },
+                {
+                    "id": 4,
+                    "question": "Bebeğinizle doğum ve sonrası süreçteki iletişim ve ilişkiniz konusunda neler düşünüyorsunuz? İlişkinize dair herhangi bir kaygınız var mı, var ise belirtebilir misiniz?"
+                },
+                {
+                    "id": 5,
+                    "question": "Bebeğinizle olan iletişiminizi güçlendirmek için gereksinimleriniz nelerdir?"
+                },
+                {
+                    "id": 6,
+                    "question": "Gebelik sürecindeki eş ilişkilerinizi tanımlar mısınız?"
+                },
+                {
+                    "id": 7,
+                    "question": "Bu süreçte eşinizden beklentileriniz nelerdir?"
+                },
+                {
+                    "id": 8,
+                    "question": "Eşinizle olan iletişiminiz sizi ve anneliğinizi nasıl etkiliyor?"
+                },
+                {
+                    "id": 9,
+                    "question": "Eşinizle olan iletişiminizi daha da güçlendirmek adına nelere gereksiniminiz vardır?"
+                }
+            ]
+        }
+    ]
 }

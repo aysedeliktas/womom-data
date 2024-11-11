@@ -4,8 +4,34 @@
         {
             "type": 1,
             "label":"Destekleyici Eğitim Videoları",
-            "url": "https://www.youtube.com/embed/videoseries?si=Oi4NR8_fxC_W7FPA&list=PLTy-clqu3n2wWsurkiGkyPTQ6K2QwpErh",
-            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+            "url": "https://www.youtube.com/embed/videoseries?si=TcjrR5xPmdwVyvCw&list=PLTy-clqu3n2xF27rBmH0LqzRvBKLMPeZQ",
+            "description": ""
+        },
+        {
+            "type":3,
+            "label":"Özdeğerlendirme Anketi",
+            "surweys":[
+                {
+                    "id":1,
+                    "question":"Gebe kalmadan önce “üremeye, gebeliğe ve anneliğe” ilişkin düşünceleriniz nelerdi?"
+                },
+                {
+                    "id":2,
+                    "question":"Gebelikteki ruh halinizi nasıl tanımlarsınız?"
+                },
+                {
+                    "id":3,
+                    "question":"Gebelikte bahsettiğiniz ruh haline sahip olmanızı sağlayan şeyler nelerdir?"
+                },
+                {
+                    "id":4,
+                    "question":"Gebelikteki ruh haliniz sizi ve annelik sürecinizi nasıl etkiliyor?"
+                },
+                {
+                    "id":5,
+                    "question":"Gebelikteki ruh halinizi iyileştirmek adına nelere gereksiniminiz bulunmaktadır?"
+                }
+            ]
         }
     ]
 }

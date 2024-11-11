@@ -24,6 +24,32 @@
             "label":"",
             "url": "https://www.youtube.com/embed/UDNOzssgQ94?si=qChzrL3XA1S0dKcz",
             "description": ""
+        },
+        {
+            "type":3,
+            "label":"Özdeğerlendirme Anketi",
+            "surweys":[
+                {
+                    "id":1,
+                    "question":"Gebelik döneminizde bedeninizden memnun musunuz?"
+                },
+                {
+                    "id":2,
+                    "question":"Bedeninize ilişkin memnun olduğunuz ve olmadığınız noktalardan bahseder misiniz?"
+                },
+                {
+                    "id":3,
+                    "question":"Sizce bedeninizden memnun olduğunuz ya da olmadığınız noktaları belirleyen nedenler nelerdir?"
+                },
+                {
+                    "id":4,
+                    "question":"Bedeninizden memnun olmanız ya da olmamanız sizi ve gebeliğinizi nasıl etkiliyor?"
+                },
+                {
+                    "id":5,
+                    "question":"Bedeninize ve bedeninizdeki değişikliklere olan bakış açınızı iyileştirmek adına nelere gereksiniminiz bulunmaktadır?"
+                }
+            ]
         }
     ]
 }

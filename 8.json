@@ -1,3 +1,37 @@
 {
-    "tag": "Doğuma Psikolojik Hazırlık Süreci" 
+    "tag": "Doğuma Psikolojik Hazırlık Süreci",
+    "modules": [
+        {
+            "type": 1,
+            "label": "Destekleyici Eğitim Videoları",
+            "url": "https://www.youtube.com/embed/videoseries?si=K3aVXBGIVr3JfdNM&list=PLTy-clqu3n2y3ocmxuMqM2BM9IOjcqUrq",
+            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+        },
+        {
+            "type": 3,
+            "label": "Özdeğerlendirme Anketi",
+            "surweys": [
+                {
+                    "id": 1,
+                    "question": "Doğuma ilişkin olumlu düşünceleriniz var mıdır? Var ise nelerdir?"
+                },
+                {
+                    "id": 2,
+                    "question": "Doğuma ilişkin kaygı ve korkularınız var mıdır? Var ise nelerdir?"
+                },
+                {
+                    "id": 3,
+                    "question": "Doğuma ilişkin kaygı ve korkularınızın nedenleri neler olabilir?"
+                },
+                {
+                    "id": 4,
+                    "question": "Sahip olduğunuz kaygı ve korkuların sizi, gebeliği ve doğum sürecinizi nasıl etkilediğini veya etkileyeceğini düşünüyorsunuz?"
+                },
+                {
+                    "id": 5,
+                    "question": "Doğuma ilişkin psikolojik olarak hazır olduğunuzu düşünüyor musunuz? Hazır olmak için gereksinimleriniz nelerdir?"
+                }
+            ]
+        }
+    ]
 }

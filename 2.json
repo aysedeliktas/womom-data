@@ -6,6 +6,40 @@
             "label":"Destekleyici Eğitim Videoları",
             "url": "https://www.youtube.com/embed/videoseries?si=42H3qMfMevTVAUZS&list=PLTy-clqu3n2zSqfRyiwu9vmE_3LQgwYwQ",
             "description": ""
-        }
+        },
+                {
+                    "id":3,
+                    "question":"Bir annenin sorumlulukları nelerdir?"
+                },
+                {
+                    "type":3,
+                    "label":"Özdeğerlendirme Anketi",
+                    "surweys":[
+                        {
+                            "id":1,
+                            "question":"'Kadın olmak' size neyi ifade ediyor?"
+                        },
+                        {
+                            "id":2,
+                            "question":"Kadın olmaya ilişkin olumlu düşünceleriniz var mıdır? Var ise maddeler haline aşağıya yazar mısınız?"
+                        },
+                        {
+                            "id":3,
+                            "question":"Kadın olmaya ilişkin olumsuz düşünceleriniz var mıdır? Var ise maddeler halinde aşağıya yazar mısınız?"
+                        },
+                        {
+                            "id":4,
+                            "question":"Kadın olmaya ilişkin olumlu/olumsuz düşüncelerinizin nedenleri neler olabilir?"
+                        },
+                        {
+                            "id":5,
+                            "question":"Kadın olmaya ilişkin olumlu/olumsuz düşüncelerinizin yaşantınıza (sosyal, sağlık, çalışma, evlilik gibi) etkilerinden bahseder misiniz?"
+                        },
+                        {
+                            "id":6,
+                            "question":"Sizce kadın olmaya ilişkin tanımlarınızı değiştirmek için ihtiyacınız olan şeyler neler olabilir?"
+                        }
+                    ]
+                }
     ]
 }

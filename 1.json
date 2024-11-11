@@ -24,12 +24,12 @@
             "label": "Destekleyici Okuma Kaynakları",
             "documents": [
                 {
-                    "documentName":"AnnelikSurecindeDonemlereGoreOlasıOnemliSaglikOkuryazarlikBecerileri.pdf",
-                    "tag": "Annelik Sürecinde Dönemlere Gore Olası Önemli Sağlık Okuryazarlık Becerileri"
+                    "documentName":"SaglikOkuryazarligi.pdf",
+                    "tag": "Sağlık Okuryazarlığı"
                 },
                 {
-                    "documentName":"kadınlar-ve-egitim-erisimi",
-                    "tag": "Kadınlar ve Eğitim Erişimi"
+                    "documentName":"SaglikOkuryazarlikBecerisiniGelistirmeStratejileri.pdf",
+                    "tag": "Sağlık Okuryazarlık Becerisini Geliştirme Stratejileri"
                 }
             ]
         },
@@ -45,15 +45,23 @@
             "surweys":[
                 {
                     "id":1,
-                    "question":"Kadın olarak kendinizi tanımlar mısınız?"
+                    "question":"Sağlığınızı yeteri kadar takip edebildiğinizi ve yönetebildiğinizi düşünüyor musunuz?"
                 },
                 {
                     "id":2,
-                    "question":"Annelik kavramını açıklar mısınız?"
+                    "question":"Yanıtınız evet ya da hayır ise sizce bunda önemli olan nedenler nelerdir?"
                 },
                 {
                     "id":3,
-                    "question":"Bir annenin sorumlulukları nelerdir?"
+                    "question":"Günümüz koşullarını düşündüğünüzde sağlığınıza ilişkin verileri güvenilir bir şekilde elde edip, değerlendirip kullanabildiğinizi düşünüyor musunuz?"
+                },
+                {
+                    "id":4,
+                    "question":"Bilgi yoğunluğu olan günümüzde bu durum sizi ve annelik sürecinizi sizce nasıl etkiliyor?"
+                },
+                {
+                    "id":5,
+                    "question":"Bilgilerin yoğun ve karmaşık olduğu süreçte kendi sağlığınızı takip edebilmek, bilgi edinmek ve bunları kullanabilmek için ihtiyacınız olan şeyler nelerdir?"
                 }
             ]
         }

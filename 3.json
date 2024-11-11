@@ -6,6 +6,28 @@
             "label":"Destekleyici Eğitim Videoları",
             "url": "https://www.youtube.com/embed/videoseries?si=Bl-q2upDUJBA_pPH&list=PLTy-clqu3n2zu8gDD81rUK3P4okSXWYSD",
             "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+        },
+        {
+            "type":3,
+            "label":"Özdeğerlendirme Anketi",
+            "surweys":[
+                {
+                    "id":1,
+                    "question":"Anne olma kelimesi size neyi ifade ediyor?"
+                },
+                {
+                    "id":2,
+                    "question":"Anneliğe ilişkin olumlu ya da olumsuz düşüncelerinizi belirleyen etkenler nelerdir?"
+                },
+                {
+                    "id":3,
+                    "question":"Anneliğe ilişkin olumlu ya da olumsuz düşünceleriniz, sizi nasıl etkiliyor?"
+                },
+                {
+                    "id":4,
+                    "question":"Anneliğe ilişkin olumlu ya da olumsuz düşüncelerinizi yönetmek için nelere gereksiniminiz var?"
+                }
+            ]
         }
     ]
 }
