@@ -3,6 +3,12 @@
     "modules": [
         {
             "type": 1,
+            "label":"Eğitim Videosu",
+            "url": "https://www.youtube.com/embed/jKTu97p9B7Y?si=SsQf5_SO9RjQCv9y",
+            "description": ""
+        },
+        {
+            "type": 1,
             "label":"Destekleyici Eğitim Videoları",
             "url": "https://www.youtube.com/embed/videoseries?si=42H3qMfMevTVAUZS&list=PLTy-clqu3n2zSqfRyiwu9vmE_3LQgwYwQ",
             "description": ""
