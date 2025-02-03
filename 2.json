@@ -3,13 +3,51 @@
     "modules": [
         {
             "type": 1,
-            "label": "Destekleyici Eğitim Videolari",
-            "url": "https://www.youtube.com/embed/videoseries?si=42H3qMfMevTVAUZS&list=PLTy-clqu3n2zSqfRyiwu9vmE_3LQgwYwQ",
+            "label": "Eğitim videosu",
+            "url": "https://www.youtube.com/embed/OZ3NLRbhaXU?si=8cvzgY9g1IkfU4CP",
             "description": ""
         },
         {
-            "id": 3,
-            "question": "Bir annenin sorumlulukları nelerdir?"
+            "type": 1,
+            "label": "",
+            "url": "https://www.youtube.com/embed/boNcWFnXsqw?si=0km7lyhuu4jI9f2t",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label": "",
+            "url": "https://www.youtube.com/embed/Cesi8NEVJN8?si=H469Yfgz4tIVYKu6",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label": "",
+            "url": "https://www.youtube.com/embed/N-Pt0NTA2yg?si=UVYe8FbrfjmSQnsJ",
+            "description": ""
+        },
+        {
+            "type": 2,
+            "label": "Destekleyici Okuma Kaynakları",
+            "documents": [
+                {
+                    "documentName":"Kadın Olma Anlamları Üzerine.pdf",
+                    "tag": "Kadın Olma Anlamları Üzerine"
+                },
+                {
+                    "documentName":"Kadın Bedenine Uzak Olma.pdf",
+                    "tag": "Kadın Bedenine Uzak Olma"
+                },
+                {
+                    "documentName":"Beden ile İletişimde Olma.pdf",
+                    "tag": "Beden ile İletişimde Olma"
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "label": "Destekleyici Eğitim Videolari",
+            "url": "https://www.youtube.com/embed/videoseries?si=42H3qMfMevTVAUZS&list=PLTy-clqu3n2zSqfRyiwu9vmE_3LQgwYwQ",
+            "description": ""
         },
         {
             "type": 3,
