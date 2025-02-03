@@ -3,9 +3,27 @@
     "modules": [
         {
             "type": 1,
+            "label":"Eğitim Videoları",
+            "url": "https://youtu.be/K5V2P7gVBvw",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://youtu.be/2ihgAwZDXYA",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://youtu.be/HFdVaVeAkWo",
+            "description": ""
+        },
+        {
+            "type": 2,
             "label":"Destekleyici Eğitim Videoları",
             "url": "https://www.youtube.com/embed/videoseries?si=Bl-q2upDUJBA_pPH&list=PLTy-clqu3n2zu8gDD81rUK3P4okSXWYSD",
-            "description": "Kadın okuryazarlığı, kadınların eğitim ve bilgiye erişimini artırarak toplumsal eşitliği destekler."
+            "description": ""
         },
         {
             "type":3,
