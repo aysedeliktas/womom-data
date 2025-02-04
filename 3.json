@@ -26,7 +26,26 @@
             "description": ""
         },
         {
-            "type":3,
+            "type": 2,
+            "label": "Destekleyici Okuma Kaynakları",
+            "documents": [
+                {
+                    "documentName":"Modern Annelik Bilmecesi.pdf",
+                    "tag": "Modern Annelik Bilmecesi"
+                },
+                {
+                    "documentName":"Kendi Potansiyelin ile Annelik Deneyimi.pdf",
+                    "tag": "Kendi Potansiyelin ile Annelik Deneyimi"
+                },
+                {
+                    "documentName":"Annelik Üzerine.pdf",
+                    "tag": "Annelik Üzerine"
+                },
+               
+            ]
+        },
+        {
+            "type":4,
             "label":"Özdeğerlendirme Anketi",
             "surweys":[
                 {
