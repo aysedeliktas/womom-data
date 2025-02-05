@@ -20,13 +20,13 @@
             "description": ""
         },
         {
-            "type": 2,
+            "type": 1,
             "label":"Destekleyici Eğitim Videoları",
-            "url": "https://www.youtube.com/embed/videoseries?si=Bl-q2upDUJBA_pPH&list=PLTy-clqu3n2zu8gDD81rUK3P4okSXWYSD",
+            "url": "https://www.youtube.com/embed/HyjJJy9hTD8?si=u8Qi1vAogHENqIgn",
             "description": ""
         },
         {
-            "type": 3,
+            "type": 2,
             "label": "Destekleyici Okuma Kaynakları",
             "documents": [
                 {
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "type":4,
+            "type":3,
             "label":"Özdeğerlendirme Anketi",
             "surweys":[
                 {
