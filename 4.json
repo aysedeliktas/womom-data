@@ -26,6 +26,28 @@
             "description": ""
         },
         {
+            "type": 2,
+            "label": "Destekleyici Okuma Kaynakları",
+            "documents": [
+                {
+                    "documentName":"Gebeliğin Dönemlerini Tanılayalım.pdf",
+                    "tag": "Gebeliğin Dönemlerini Tanılayalım"
+                },
+                {
+                    "documentName":"Gebe Bedende Dönüşüm ve Özet Öneriler.pdf",
+                    "tag": "Gebe Bedende Dönüşüm ve Özet Öneriler"
+                },
+                {
+                    "documentName":"Gebelikte Uyku ve Dinlenme, Vücut Mekaniği ve Ergonomi.pdf",
+                    "tag": "Gebelikte Uyku ve Dinlenme, Vücut Mekaniği ve Ergonomi"
+                },
+                {
+                    "documentName":"Gebelikte Kozmetik ve İlaçların Kullanımı.pdf",
+                    "tag": "Gebelikte Kozmetik ve İlaçların Kullanımı"
+                }
+            ]
+        },
+        {
             "type":3,
             "label":"Özdeğerlendirme Anketi",
             "surweys":[
