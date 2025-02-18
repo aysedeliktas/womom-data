@@ -3,6 +3,30 @@
     "modules": [
         {
             "type": 1,
+            "label": "Eğitim Videosu",
+            "url": "https://www.youtube.com/embed/huJyPPRGzrE?si=03-ylkVzKPuVHYxg",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/i6zm-e8pWlk?si=kZ2gR2VZzBKh8Tvp",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/6fxT0tCQoXI?si=yw_PLOw1qIe8GwLc",
+            "description": ""
+        },
+        {
+            "type": 1,
+            "label":"",
+            "url": "https://www.youtube.com/embed/8nBin5D7MLI?si=xgkfoordcw35s97v",
+            "description": ""
+        },
+        {
+            "type": 1,
             "label":"Destekleyici Eğitim Videoları",
             "url": "https://www.youtube.com/embed/videoseries?si=TcjrR5xPmdwVyvCw&list=PLTy-clqu3n2xF27rBmH0LqzRvBKLMPeZQ",
             "description": ""
