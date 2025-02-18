@@ -74,6 +74,28 @@
             "description": ""
         },
         {
+            "type": 2,
+            "label": "Destekleyici Okuma Kaynakları",
+            "documents": [
+                {
+                    "documentName":"Doğum Çantamda Neleri Bulundurmalıyım.pdf",
+                    "tag": "Doğum Çantamda Neleri Bulundurmalıyım"
+                },
+                {
+                    "documentName":"Doğumun Geldiğini Nasıl Anlayacağım.pdf",
+                    "tag": "Doğumun Geldiğini Nasıl Anlayacağım"
+                },
+                {
+                    "documentName":"Doğuma Fiziksel Hazırlık.pdf",
+                    "tag": "Doğuma Fiziksel Hazırlık"
+                },
+                {
+                    "documentName":"Doğum Dalgalarına Eşlik Etmek İçin Öneriler.pdf",
+                    "tag": "Doğum Dalgalarına Eşlik Etmek İçin Öneriler"
+                }
+            ]
+        },
+        {
             "type": 3,
             "label": "Özdeğerlendirme Anketi",
             "surweys": [
