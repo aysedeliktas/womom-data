@@ -1,6 +1,32 @@
 {
     "modules": [
         {
+            "type": 2,
+            "label": "Destekleyici Okuma Kaynakları",
+            "documents": [
+                {
+                    "documentName":"Gebelik ve Doğumda Bağlanma.pdf",
+                    "tag": "Gebelik ve Doğumda Bağlanma"
+                },
+                {
+                    "documentName":"Doğum Sonu Dönemde Bağlanma.pdf",
+                    "tag": "Doğum Sonu Dönemde Bağlanma"
+                },
+                {
+                    "documentName":"Bir Belirleyici Olarak Annenin Kendi Bağlanma Stili.pdf",
+                    "tag": "Bir Belirleyici Olarak Annenin Kendi Bağlanma Stili"
+                },
+                {
+                    "documentName":"Eşler Arası İlişkiler.pdf",
+                    "tag": "Eşler Arası İlişkiler"
+                },
+                {
+                    "documentName":"Eş İlişkilerini Güçlendirmek İçin Öneriler.pdf",
+                    "tag": "Eş İlişkilerini Güçlendirmek İçin Öneriler"
+                }
+            ]
+        },
+        {
             "type": 3,
             "label": "Özdeğerlendirme Anketi",
             "surweys": [
