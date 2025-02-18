@@ -32,6 +32,19 @@
             "description": ""
         },
         {
+            "type": 2,
+            "label": "Destekleyici Okuma Kaynakları",
+            "documents": [
+                {
+                    "documentName":"Gebelik Dönemlerine Göre Psikoloji.pdf",
+                    "tag": "Gebelik Dönemlerine Göre Psikoloji"
+                },
+                {
+                    "documentName":"Doyumlu Gebelik Deneyimi İçin Öneriler.pdf",
+                    "tag": "Doyumlu Gebelik Deneyimi İçin Öneriler"
+                }
+            ]
+            {
             "type":3,
             "label":"Özdeğerlendirme Anketi",
             "surweys":[
